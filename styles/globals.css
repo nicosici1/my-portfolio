@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+  
+
+  /* font-family: 'Fira Code', monospace; */
+  font-family: 'Saquel Sans';
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "burtons";
+  src: url("../public/Burtons.otf");
+}
+
+@font-face {
+  font-family: "Saquel Sans";
+  src: url("../public/Sequel.otf");
+}
+
+/* @font-face {
+  font-family: "fira";
+  src: url("../public/Fira.ttf");
+} */
+
+
+
+/* h2 {
+  font-family: 'Fira Code', monospace;
+} */
+
+/* p {
+  font-family: 'Fira Code', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+
+/* @font-face {
+  font-family: 'Fira Code';
+  src: url('./public/FiraCode-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
+
