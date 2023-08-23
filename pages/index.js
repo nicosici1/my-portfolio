@@ -89,7 +89,7 @@ export default function Home() {
             </div>
           </section>
 
-          {/* <ParticlesBackground config={ParticlesConfig} className="h-[100vh] w-[100vw]" /> */}
+      
 
           <section>
             <div>
