@@ -75,7 +75,7 @@ export default function Home() {
                   Lets create something amazing together!`}
                 </p>
                 <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-                  <a href="https://www.linkedin.com/in/nicol%C3%A1s-siciliano-087794171/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/nicosici/" target="_blank" rel="noopener noreferrer">
                     <AiFillLinkedin />
                   </a>
                   <a href="https://github.com/nicosici1" target="_blank" rel="noopener noreferrer">
