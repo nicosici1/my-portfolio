@@ -13,7 +13,11 @@ import deporte360 from "../public/screen2.png"
 import ParticlesBackground from "../components/ParticlesBackground";
 import ParticlesConfig from "../components/ParticlesConfig";
 const repositorio1 = "https://nicosici1.github.io/Ecommerce-vanilla-js/";
+<<<<<<< HEAD
 const repositorio2 = "https://github.com/nicosici1/Deporte-360-Noticias";
+=======
+const repositorio2 = "https://github.com/nicosici1/Deporte-360-Noticias.git";
+>>>>>>> fd17488181cdb7d9ba6ce209555b104f59540a45
 
 
 
@@ -89,7 +93,7 @@ export default function Home() {
             </div>
           </section>
 
-          {/* <ParticlesBackground config={ParticlesConfig} className="h-[100vh] w-[100vw]" /> */}
+      
 
           <section>
             <div>
